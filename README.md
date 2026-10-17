@@ -149,12 +149,12 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokkumar2510&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=8892B0&border_color=1E293B" alt="Alok's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumar2510&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=8892B0&border_color=1E293B" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alokkumar-gh&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=8892B0&border_color=1E293B" alt="Alok's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumar-gh&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=8892B0&border_color=1E293B" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alokkumar2510&theme=dark&background=0D1117&title=00E5FF&stroke=7C3AED&text=8892B0&ring=7C3AED&fire=00E5FF" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=alokkumar-gh&theme=dark&background=0D1117&title=00E5FF&stroke=7C3AED&text=8892B0&ring=7C3AED&fire=00E5FF" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
